@@ -26,19 +26,6 @@ This project demonstrates **how to classify handwritten digits** from the **MNIS
 
 ---
 
-## 📁 Project Structure
-
-mnist-pytorch/
-├── train.py # Script for training the model
-├── test.py # Script for testing the model and visualizing predictions
-├── model.py # Neural network definition
-├── results/ # Folder containing training results and plots
-├── data/ # Folder where MNIST dataset is downloaded
-└── README.md # Project documentation
-
-
----
-
 ## 📊 Expected Results
 - **Accuracy:** 95% – 97%  
 - **Training Time:** < 1 minute on CPU  
@@ -47,8 +34,6 @@ mnist-pytorch/
 ---
 
 ## 📦 Requirements
-
-```bash
 pip install torch torchvision matplotlib
 
 
