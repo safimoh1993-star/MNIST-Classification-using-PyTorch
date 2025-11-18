@@ -51,10 +51,11 @@ mnist-pytorch/
 ```bash
 pip install torch torchvision matplotlib
 
+
 ## ✨ Credits
 
-Designer & Developer: Safiah Mohammed Al-Qarni
-Audience: Students & Beginners in AI
-Purpose: Educational project to demonstrate practical deep learning with PyTorch
+- **Designer & Developer:** Safiah Mohammed Al-Qarni  
+- **Audience:** Students & Beginners in AI  
+- **Purpose:** Educational project to demonstrate practical deep learning with PyTorch  
 
-“This project provides a fun and interactive introduction to neural networks — combining learning, coding, and practical AI skills.” 💚
+> “This project provides a fun and interactive introduction to neural networks — combining learning, coding, and practical AI skills.” 💚
